@@ -72,7 +72,11 @@ const Countries = () => {
           value={searchTerm}
           onChange={(e) => setSearchTerm(e.target.value)}
           sx={{
-            width: 400,
+            width: {
+              xs: "90%", // 📱 Small screens
+              sm: "70%", // 💻 Tablets
+              md: "500px", //
+            },
             backgroundColor: "#fff",
             borderRadius: 2,
             boxShadow: 2,

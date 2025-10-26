@@ -28,6 +28,7 @@ This project is made with:
 ✅ **Favorites System** — Add or remove countries from your favorite list  
 ✅ **Favorite Icon in Menu** — Easily view all your favorite countries  
 ✅ **Dark / Light Mode** — Switch between night and day modes
+✅ **Fully Responsive** — Works smoothly on both desktop and mobile
 
 ---
 
